@@ -28,7 +28,7 @@ import com.bignerdranch.android.wordtrainer.model.DeckLab;
 import java.util.List;
 
 public class WordTrainerFragmentList extends Fragment {
-    //check git
+
     private static final int REQUEST_DECK_NAME = 0;
     private static final String DIALOG_DECK_NAME = "Dialog deck name";
 
